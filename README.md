@@ -13,3 +13,7 @@
 - google-api-python-client 2.6.0
 
 ## フォルダ詳細
+
+- youtube_title.py # 特定のチャンネルの動画全タイトルを取得します
+- title_mecab.py # タイトルを形態素解析します
+- markov.py # マルコフ連鎖でタイトルを生成します 
