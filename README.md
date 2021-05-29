@@ -2,7 +2,7 @@
 
 ## :pencil2: 詳しい内容(Qiita)
 
-#### [東海オンエアの動画タイトルを自動生成してみた](https://qiita.com/kii95/items/65aa7b9e010b609c6cb2)
+#### [東海オンエアの動画タイトルを自動生成してみた](https://qiita.com/kii95/items/64afaa389e064c9834d0)
 
 ## :computer: 開発環境
 
